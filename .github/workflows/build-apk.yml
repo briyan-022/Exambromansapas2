@@ -16,7 +16,7 @@ jobs:
       - name: Extract Android project
         run: |
           mkdir project
-          unzip -q ExambroMansapas-EUjian1-fixed.zip -d project
+          unzip -q .github/ExambroMansapas-EUjian1-fixed.zip -d project
           cd project
           find . -name build.gradle -o -name settings.gradle
 
