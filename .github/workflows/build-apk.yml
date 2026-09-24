@@ -40,3 +40,4 @@ jobs:
         with:
           name: ExambroMansapas-APK
           path: project/ExambroMansapas2/ExambroMansapas/app/build/outputs/apk/debug/*.apk
+}
